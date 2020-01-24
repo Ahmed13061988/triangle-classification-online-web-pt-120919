@@ -6,7 +6,12 @@ attr_accessor :length1, :length2, :length3
    @length3 = length3
  end 
  def kind 
-   
+  :equilateral
+
+  :isosceles
+
+  :scalene
+end 
 
 
 end 
