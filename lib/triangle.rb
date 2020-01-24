@@ -21,7 +21,7 @@ attr_accessor :length1, :length2, :length3
     end
 end 
 
-class TraingleError < StandatrdError 
+class TraingleError < StandardError 
   
 end 
 end 
